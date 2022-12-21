@@ -1,0 +1,60 @@
+/* .contact{ width: 100px;
+    height:50px;
+    border: 2px solid;
+    border-color: aliceblue;
+    
+    
+    
+}
+.maintxt {
+    background-image: url(camera.webp);
+    
+    background-size: cover;
+    width: 1000px;
+    height: 600px;
+} */
+
+.aboutcontainer{
+    background-size: cover;
+    text-align: center;
+    padding:20px;
+    
+    
+    
+    
+
+}
+.ourservicecontainer{
+    background-color:rgb(0, 0, 0, 0.2);
+     color: aliceblue; 
+     width: 1800px;
+      margin-top: 30px;
+
+}
+.navbarcontainer{
+    background-color:rgb(0, 0, 0,) ; color: grey;
+
+}
+.ourservice{ box-shadow: 5px 5px 5px 5px  ;
+
+}
+#contactus{
+    background-image: url(https://cdn.pixabay.com/photo/2018/02/13/17/04/lens-3151078__340.jpg);
+    color:cornsilk;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    height:70vh;
+
+}
+.img{
+    height:750px;
+}
+.service{
+    background-image: url(https://cdn.pixabay.com/photo/2018/02/13/17/04/lens-3151078__340.jpg);
+    /* color:cornsilk; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    height:70vh;
+}
